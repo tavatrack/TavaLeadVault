@@ -33,13 +33,18 @@ Pricing: TBD
 
 ## Wiki Operations
 
-**Session start:** (1) Read this file, (2) Read [[index]], (3) Check [[current-issues]], (4) `git pull`
+**Session start:** (1) Read this file, (2) Read [[index]], (3) Check [[current-issues]]. Git pull runs automatically on your first message — you're always on the latest.
 
-**Session end:** Update [[current-issues]], append Build Log entry, update [[index]], `git commit` + `git push`
-
-**Query:** Read [[index]] first, then read those pages directly. Don't rely on memory — verify against files.
+**Session end:** Update [[current-issues]], append Build Log entry, update [[index]], then:
+```bash
+git add .
+git commit -m "describe what you did"
+git push
+```
 
 **Collaboration rule:** If you're mid-task and leaving work incomplete, note it in [[current-issues]] with your name before pushing. The other person picks it up from there.
+
+**Query:** Read [[index]] first, then read those pages directly. Don't rely on memory — verify against files.
 
 Use Context7 for: any library or API you're unsure about.
 
