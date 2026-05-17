@@ -8,6 +8,14 @@
 - [[current-issues]] — Active blockers and in-progress work
 - [[stack-decisions]] — Why we chose each tool
 
+## How To (start here if you're new)
+
+- [[01 - What Is This Vault]] — What the vault is and how it works
+- [[02 - First Time Setup]] — Install Claude Code, clone the repo, get access
+- [[03 - Daily Session Guide]] — What to do every session (start + end)
+- [[04 - How Claude Reads the Vault]] — How to get the most out of Claude
+- [[05 - Collaboration Rules]] — How to work without stepping on each other
+
 ## Architecture
 
 - [[architecture-overview]] — System design (create when first build decision is made)
