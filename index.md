@@ -33,3 +33,4 @@
 | Date | Who | What |
 |---|---|---|
 | May 2026 | Nick | Vault initialized |
+| 2026-05-16 | Matthew | Read through vault and How To guides; ran end-of-session steps |

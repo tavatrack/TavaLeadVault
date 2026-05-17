@@ -15,8 +15,9 @@
 ## Next Up
 
 - Define tech stack once product direction is clear
-- Set up GitHub repo and invite collaborators
+- Set up GitHub repo and invite collaborators (send Nick your GitHub username)
 - Define roles (Matthew / Timmy ownership areas)
+- Have product definition conversation: what does TavaLead do, who's the customer, how does it make money?
 
 ## Resolved
 
