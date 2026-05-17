@@ -15,6 +15,7 @@
 - [[03 - Daily Session Guide]] — What to do every session (start + end)
 - [[04 - How Claude Reads the Vault]] — How to get the most out of Claude
 - [[05 - Collaboration Rules]] — How to work without stepping on each other
+- [[06 - Your First Session]] — What to do the first time you open Claude Code in the vault
 
 ## Architecture
 

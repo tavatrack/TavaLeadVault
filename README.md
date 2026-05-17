@@ -22,14 +22,15 @@ Once cloned, open the `TavaLeadVault` folder on your Desktop and read the guides
 
 ```
 How To/
-├── 01 - What Is This Vault.md
-├── 02 - First Time Setup.md
-├── 03 - Daily Session Guide.md
+├── 01 - What Is This Vault.md       ← read first
+├── 02 - First Time Setup.md         ← do once
+├── 03 - Daily Session Guide.md      ← every session after that
 ├── 04 - How Claude Reads the Vault.md
-└── 05 - Collaboration Rules.md
+├── 05 - Collaboration Rules.md
+└── 06 - Your First Session.md       ← bridges setup → first real session
 ```
 
-That's everything you need to get started.
+Read them in order. By the end of 06 you'll be in the working rhythm.
 
 ---
 
