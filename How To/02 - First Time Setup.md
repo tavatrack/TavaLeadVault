@@ -2,6 +2,8 @@
 
 Do this once. Takes about 10 minutes.
 
+> If you're reading this, you've already cloned the vault. Good — skip to Step 1.
+
 ---
 
 ## Step 1 — Install Claude Code
